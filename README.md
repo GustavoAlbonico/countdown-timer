@@ -1,5 +1,6 @@
 # Countdown Timer
 
-**Projeto desenvolvido durante o cusso de front-end "Formação Front-end - HTML, CSS, JavaScript, React e +".**
+**Projeto desenvolvido durante o curso de front-end "Formação Front-end - HTML, CSS, JavaScript, React e +".**
 
-https://gustavoalbonico.github.io/countdown-timer/
+[Ver mais](https://gustavoalbonico.github.io/countdown-timer/)
+![countdown timer](public/countdown-timer.png)
